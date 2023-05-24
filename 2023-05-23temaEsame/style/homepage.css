@@ -1,0 +1,26 @@
+.esposizioni {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+tr,
+td {
+    text-align: center;
+    padding-inline: 5vw;
+}
+
+iframe {
+    margin: auto!important;
+    position: relative!important;
+}
+
+.maps {
+    text-align: center;
+}
+
+.info p {
+    padding-inline: 20vw;
+}
