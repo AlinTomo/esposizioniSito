@@ -1,0 +1,12 @@
+iframe {
+    margin: auto!important;
+    position: relative!important;
+}
+
+.maps {
+    text-align: center;
+}
+
+.info p {
+    padding-inline: 20vw;
+}

@@ -1,0 +1,29 @@
+body {
+    margin: 0%;
+}
+
+.navigazione {
+    text-decoration: none!important;
+    display: block;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 0%!important;
+    margin: 0%!important;
+}
+
+.navigazione a {
+    text-decoration: none!important;
+    color: black;
+}
+
+.titolo {
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
