@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+tr,
+td {
+    text-align: center;
+    padding-inline: 5vw;
+}
+
+img {
+    height: 10vh;
+    width: 10vw;
+    margin-left: auto;
+}
+
+.struttura {
+    display: flex;
+    flex-direction: row;
+}
