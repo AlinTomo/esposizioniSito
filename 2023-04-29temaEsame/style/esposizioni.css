@@ -1,0 +1,18 @@
+.esposizioni {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+tr,
+td {
+    text-align: center;
+    padding-inline: 5vw;
+}
+
+img {
+    height: 10vh;
+    width: 10vw;
+}
