@@ -1,0 +1,18 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    padding-block: 5vh;
+    height: 56.7vh;
+}
+
+form input {
+    margin: auto;
+    width: 30vw;
+}
+
+form select {
+    text-align: center;
+    margin: auto;
+}
