@@ -1,0 +1,39 @@
+table {
+    margin: auto;
+    border-radius: 2vw;
+    border: 1px solid;
+    padding-bottom: 1vh!important;
+}
+
+.contenuto {
+    padding-bottom: 24.8vh!important;
+}
+
+tr,
+td {
+    text-align: center;
+    padding-inline: 5vw;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0%;
+}
+
+td img {
+    height: 4vw;
+}
+
+body {
+    background-color: #fae350!important;
+}
+
+.contenuto {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    background-color: white;
+    width: 80vw;
+    margin: auto;
+    padding-bottom: 2vw;
+    padding-top: 2vw;
+}
